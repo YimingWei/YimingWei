@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![YimingWei's GitHub stats](https://github-readme-stats.vercel.app/api?username=YimingWei)](https://github.com/anuraghazra/github-readme-stats)
+
+![YimingWei's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=YimingWei&layout=compact&hide_border=true&langs_count=10)
